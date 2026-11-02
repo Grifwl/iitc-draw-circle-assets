@@ -10,10 +10,10 @@ plugin's own documentation and in its published description on
 
 ## Contents
 
-- `screenshots/drawing-circle.png` — the Draw Circle dialog, where you enter the radius,
-  unit and colour.
-- `screenshots/circle-drawn.png` — the resulting circle drawn on the map around the
-  portal.
+- `screenshots/drawing-circle.png` — the Draw Circle dialog, with the shard presets and
+  the fields for a custom radius, unit and colour.
+- `screenshots/circle-drawn.png` — the three shard circles (1 / 5 / 10 km) drawn on the
+  map around the same portal.
 
 ![Drawing a circle](https://raw.githubusercontent.com/Grifwl/iitc-draw-circle-assets/main/screenshots/drawing-circle.png)
 
